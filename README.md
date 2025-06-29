@@ -37,4 +37,4 @@ Adjusting weights or the threshold can lead to different outcomes.
 **4. The Importance of Training Data**       
 Neural networks rely on **training data** to improve their accuracy. Using **supervised learning** on labeled datasets, the model learns to minimize errors by:        
 * Calculating errors through a **cost function**.      
-* Adjusting weights and biases using a process called **gradient descent,** which optimizes the model to predict more accurately. **
+* Adjusting weights and biases using a process called **gradient descent,** which optimizes the model to predict more accurately.
